@@ -7,8 +7,16 @@ Then spin it once and watch it catch the light.
 
 ## Scripts
 
-`hello-world.js` prints `Hello, world!`. It requires Node.js but no installed packages or arguments. Run it from the repository root:
+Both scripts require Node.js but no installed packages or arguments. Run these commands from the repository root:
+
+`hello-world.js` prints `Hello, world!`.
 
 ```sh
 node hello-world.js
+```
+
+`roll-dice.js` prints a random integer from 1 through 6.
+
+```sh
+node roll-dice.js
 ```

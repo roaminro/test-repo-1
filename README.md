@@ -1,6 +1,6 @@
 # test-repo-1
 
-At Mastra Factory, ideas take flight,\
-We pass the tools and get the pieces right.\
-One mind throws sparks; another tends the flame,\
-And what we build bears more than one name.
+At Mastra Factory, we sketch a wheel;\
+One draws the spokes; another cuts the steel.\
+We file the hub until the fit is right;\
+Then spin it once and watch it catch the light.
